@@ -29,7 +29,7 @@ class Playlist extends Component {
           isRemoval={true}
           onRemove={this.props.onRemove}
         />
-        <a href="#playlistSave" className="Playlist-save" onClick={this.props.onSave}>SAVE TO SPOTIFY</a>
+        <a href="#savePlaylist" className="Playlist-save" onClick={this.props.onSave}>SAVE TO SPOTIFY</a>
       </div>
     );
   }

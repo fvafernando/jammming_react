@@ -1,6 +1,0 @@
-Removal of warnings
-- Adding href attributed to anchor elements with no style alterations
-Improvements to Playlist name change function
-- change is only triggered after user finished editing value by pressing the enter key
-Search via keyboard
-- Hitting enter also triggers search
